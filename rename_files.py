@@ -25,6 +25,6 @@ def rename_files(directory, prefix):
 
 # Example usage
 #directory_path = '/path/to/your/directory'
-directory_path = 'C:/Users/govyadav/OneDrive - Capgemini/Documents/Python/test'
+directory_path = 'C:/test'
 prefix = 'new'
 rename_files(directory_path, prefix)
